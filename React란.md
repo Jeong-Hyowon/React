@@ -29,8 +29,7 @@ Virtual DOM은 DOM 변화를 최소화 시켜주는 역할을 한다. 이 횟수
 
  <br>
 
-```
-참조 : https://spicycookie.me/React/reactintro/
+
+참조 : <a>https://spicycookie.me/React/reactintro/</a>
 
 참조 : velopert
-```

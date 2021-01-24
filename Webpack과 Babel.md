@@ -16,6 +16,5 @@ ES6는 인터넷 익스플로러11을 사용하는 비율이 11% 정도가 되�
 
 <br>
 
-```
-참조 : https://velog.io/@yon3115/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%95%84%EC%88%98-Webpack%EC%9D%B4%EB%9E%80
-```
+
+참조 : <a>https://velog.io/@yon3115/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%95%84%EC%88%98-Webpack%EC%9D%B4%EB%9E%80</a>
